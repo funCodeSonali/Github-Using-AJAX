@@ -1,0 +1,28 @@
+.avatar{
+    width: 90%;
+    border-radius: 50%;
+    outline: 1px solid black;
+    outline-offset: 2px;
+}
+.align-center{
+    margin: auto;
+    text-align: center;
+}
+.badge{
+    color: black;
+}
+a.btn{
+    margin: 10px;
+}
+.btn-secondary-grey{
+    background-color: #909193;
+}
+.align-right{
+    text-align: right;
+}
+label{
+    font-size: 20px;
+}
+body>.container{
+    padding: 30px;
+}
